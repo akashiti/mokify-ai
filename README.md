@@ -1,4 +1,4 @@
-# mokify-ai
+# mockify-ai
 Mockify is an AI-driven interview practice website designed to help users improve their resume quality, communication skills, and interview performance.
 It provides real-time scoring, detailed feedback, and personalized suggestions so users can confidently prepare for real job interviews.
 
